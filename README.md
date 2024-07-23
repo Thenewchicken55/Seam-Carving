@@ -1,6 +1,6 @@
 # Seam Carving Algorithm
 
-This repository contains two Python Notebook programs for lossy compression of an image called Buchtel.pgm.
+This repository contains two Jupyter Notebook programs for lossy compression of an image called Buchtel.pgm.
 
 The program deletes horizontal and vertical lines of pixels, which are called seams, from the image to make it smaller. The program picks the least informative seams such that removing them has the least impact.
 
